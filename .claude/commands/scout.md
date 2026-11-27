@@ -23,7 +23,7 @@ Follow these steps in order.
 
 5. **Show me the three ideas** in chat, each in this format:
    - **Title:**
-   - **Hook:**
+   - **Hook:** (twelve words or fewer — count them, and rewrite any longer hook)
    - **Why now:**
    - **Source:** link (publish date)
    Under them, add a short "Thrown out" list: each rejected idea and why, one line each.

@@ -14,3 +14,4 @@ When you pick an idea from /scout, it gets added to the bottom automatically. Yo
 - Why smart AI agents make a plan first
 - How Karpathy uses AI
 - Generative AI explained simply
+- Claude can now send files straight to your apps

@@ -22,6 +22,6 @@ I run a YouTube channel about AI for complete beginners. I make Shorts (under 60
 
 ## Every idea is written like this
 - **Title:** short, plain words
-- **Hook:** the first line I say in the first 3 seconds
+- **Hook:** the first line I say in the first 3 seconds — **twelve words or fewer**
 - **Why now:** why a beginner should care this week (one or two sentences)
 - **Source:** link + publish date
